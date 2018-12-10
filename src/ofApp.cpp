@@ -25,7 +25,7 @@ void ofApp::setup() {
 void ofApp::update() {
 	ofPoint acc_1 = center - blob_1;
 	acc_1.normalize();
-	acc_1.scale(0.21);
+	acc_1.scale(0.22);
 	vel_1 += acc_1;
 	blob_1 += vel_1;
 
