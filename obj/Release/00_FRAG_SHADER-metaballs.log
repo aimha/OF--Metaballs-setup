@@ -1,0 +1,12 @@
+﻿  main.cpp
+  ofApp.cpp
+     Creazione della libreria bin\00_FRAG_SHADER-metaballs.lib e dell'oggetto bin\00_FRAG_SHADER-metaballs.exp
+  LINK : è stata specificata l'opzione /LTCG ma non è richiesta la generazione del codice; rimuovere /LTCG dalla riga di comando del collegamento per migliorare le prestazioni del linker
+  00_FRAG_SHADER-metaballs.vcxproj -> D:\07_OF\of_v0.10.0_vs2017_release\apps\myApps\00_FRAG_SHADER-metaballs\bin\00_FRAG_SHADER-metaballs.exe
+  
+  	                   2	D:\07_OF\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *File supplementare		 5647872	D:\07_OF\of_v0.10.0_vs2017_release\apps\myApps\00_FRAG_SHADER-metaballs\bin\FreeImage.dll
+  
+  	                   1	D:\07_OF\of_v0.10.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *File supplementare		 1266176	D:\07_OF\of_v0.10.0_vs2017_release\apps\myApps\00_FRAG_SHADER-metaballs\bin\fmodex.dll
+  	  *File supplementare		 1312768	D:\07_OF\of_v0.10.0_vs2017_release\apps\myApps\00_FRAG_SHADER-metaballs\bin\fmodexL.dll

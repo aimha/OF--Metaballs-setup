@@ -1,0 +1,13 @@
+﻿  main.cpp
+  ofApp.cpp
+     Creazione della libreria bin\00_FRAG_SHADER-metaballs_debug.lib e dell'oggetto bin\00_FRAG_SHADER-metaballs_debug.exp
+  00_FRAG_SHADER-metaballs.vcxproj -> D:\07_OF\of_v0.10.0_vs2017_release\apps\myApps\00_FRAG_SHADER-metaballs\bin\00_FRAG_SHADER-metaballs_debug.exe
+  
+  	                   2	D:\07_OF\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	    Nuovo file		 1266176	D:\07_OF\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\fmodex.dll
+  	    Nuovo file		 1312768	D:\07_OF\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\fmodexL.dll
+  
+  	                   1	D:\07_OF\of_v0.10.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *File supplementare		 1266176	D:\07_OF\of_v0.10.0_vs2017_release\apps\myApps\00_FRAG_SHADER-metaballs\bin\fmodex.dll
+  	  *File supplementare		 1312768	D:\07_OF\of_v0.10.0_vs2017_release\apps\myApps\00_FRAG_SHADER-metaballs\bin\fmodexL.dll
+  	    Nuovo file		 5647872	D:\07_OF\of_v0.10.0_vs2017_release\libs\FreeImage\lib\vs\Win32\FreeImage.dll
